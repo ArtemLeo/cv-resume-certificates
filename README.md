@@ -7,5 +7,4 @@
 <img src="images readme file/2.png" alt="Logo">
 <img src="images readme file/3.png" alt="Logo">
 <img src="images readme file/4.png" alt="Logo">
-<img src="images readme file/5.png" alt="Logo">
-<img src="images readme file/6.png" alt="Logo">
+
