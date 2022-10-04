@@ -3,4 +3,3 @@
 <h3>▪️my training</h3>
 <h3>▪️my experience</h3>
 <h3>▪️my practice</h3>
-<h3>▪️my certificates</h3>
